@@ -5,14 +5,23 @@ Course work and small utilities.
 ## Top-level structure
 
 Python_Projects/
+
 ├─ chatgpt_test/
+
 ├─ gemini request/
+
 ├─ nurs4331quiz/
+
 ├─ ocr/
+
 ├─ transcribe_lecture/
+
 ├─ txt_to_pdf/
+
 ├─ yt and transcribe/
+
 ├─ .gitignore
+
 └─ README.md
 
 
